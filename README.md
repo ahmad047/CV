@@ -1,6 +1,6 @@
-## Your Name
+## Muhammad Nasr Ahmad
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a driven hard working individual who is passionate about tech, software engineering and development. I am a language agnostic developer who can break down problems, solve problems and also provide high quality solutions. 
 
 ## Projects
 
@@ -11,13 +11,22 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Company Name** (Mar-18 to Dec-20)  
+_Senior Management Accounant_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Systems improvements and developing internal reporting standards to improve management information.
+- Working closely with database team to improve financial reporting.
+- Testing and rolling out new features in the accounting software.
+- Preparation of detailed balance sheet reconciliations with an audit perspective.
+- Acting as main point of contact for group and local audits.
+- Ensuring adherence to IFRS15, creating and implementing revenue / costs recognition models as and when necessary
+- Oversight of AP/treasury functions. Reviewing the work of assistant accountants. 
+- Business parterning with divisional heads.
+- Ensuring ongoing compliance with fiscal requirement in EMEA and Africa.
+- Budgetting, forecasting and margin analysis
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Banks Sadler** (Aug-17 to Feb-18)  
+_Management Accountant_
 
 - Any experience relevent to software development
 
