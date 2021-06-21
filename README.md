@@ -12,23 +12,11 @@ I am a driven hard working individual who is passionate about tech, software eng
 
 # Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
 ### Debugging
 
 I pride myself for being a really good debugger since I can look at other people's code and my own and break it down into small pieces and resolve any bugs. There have been many occasions in the last 12 weeks where I have had to debug a piece of code but the example below is what would describe it best.
 
-- Situation - 1 day before the final project in week 12 of the makers course, our bazaar app started crashing. This was a very intense time as well for the app to start crashing as we were finalizing styling and needed the app ready asap for the demo.
+- Situation - 1 day before the final project in week 12 of the makers course, our bazaar app started crashing. This was a very intense time for the app to start crashing as we were finalizing styling and needed the app ready asap for the demo.
 - Task - I was tasked with debugging the app end to end and ensuring that the app did not crash.
 - Action - I went on to debug the app by simulating a user Journey and used console to look analyse the errors that came up during this exercise. I found that the issue was with both server and client. With a bad request server would crash as soon as we made a request on creating a new product. This would cause the heroku deployed server to crash. I also found an issue on the client side where the user was not persisting.
 - Result - Since I had found the issues using a methodical approach to debugging, I was able to solve these by refactoring to remove bugs on both client and server side. The app was working after this
@@ -55,7 +43,7 @@ I think about problems in a very logical and methodical way.
 
 #### Makers Academy (March-21 to June-21)
 
-Ruby | Rails | JavaScript | Sinatra | HTML | CSS | PostgreSQL | RSpec | Jasmine | Capybara | Mongodb | React | Express | Node | Heroku | Netlify
+JavaScript | Mongodb | React | Express | Node | Heroku | Netlify | Ruby | Rails | Sinatra | HTML | CSS | PostgreSQL | RSpec | Jasmine | Capybara
 
 A 16 week intensive software development bootcamp focusing on:
 
@@ -65,14 +53,15 @@ A 16 week intensive software development bootcamp focusing on:
 - Pair programming
 - XP values
 - Software craftsmanship
-	
+
 #### BSc (Hons) Acounting and Finance, Anglia Ruskin University (2011 – 2014)
-Grade: **First Class** 
+
+Grade: **First Class**
 
 #### Nusrat Jahan Inter College (2003 – 2010)
-A Levels: Physics (**A***), Mathematics (**A**), Chemistry (**B**)<br />
-GCSE's equivalent: Physics (**A***), Mathematics (**A***), Chemistry (**A***), Biology (**A**)
 
+A Levels: Physics (**A\***), Mathematics (**A**), Chemistry (**B**)<br />
+GCSE's equivalent: Physics (**A\***), Mathematics (**A\***), Chemistry (**A\***), Biology (**A**)
 
 # Work Experience
 
