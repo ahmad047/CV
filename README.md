@@ -4,11 +4,11 @@ I am a driven hard working individual who is passionate about tech, software eng
 
 # Projects
 
-| Name                                                                                                           | Description                                              | Tech/tools                                                               |
-| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------ |
-| **Bazaar ([Server](https://github.com/ahmad047/bazaar), [Client](https://github.com/ahmad047/bazaar-server))** | A virtual marketplace to simulate a middle eastern bazaar | Mongodb, Express.js, React.js, Node.js, Cloudinary, Heroky, Netlify, CSS |
-| **[Acebook](https://github.com/ahmad047/acebook-team-smiley-face)**                                            | A clone of Facebook                                      | Ruby on Rails, Heroku, Rspec, CSS                                        |
-| **[Bowling](https://github.com/ahmad047/bowling-challenge-ruby)**                                              | Bowling Scorecard                                        | Javascript, Jasmine                                                      |
+| Name                                                                                                           | Description                                               | Tech/tools                                                               |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Bazaar ([Server](https://github.com/ahmad047/bazaar-server), [Client](https://github.com/ahmad047/bazaar))** | A virtual marketplace to simulate a middle eastern bazaar | Mongodb, Express.js, React.js, Node.js, Cloudinary, Heroky, Netlify, CSS |
+| **[Acebook](https://github.com/ahmad047/acebook-team-smiley-face)**                                            | A clone of Facebook                                       | Ruby on Rails, Heroku, Rspec, CSS                                        |
+| **[Bowling](https://github.com/ahmad047/bowling-challenge)**                                              | Bowling Scorecard                                         | Javascript, Jasmine                                                      |
 
 # Skills
 
@@ -28,7 +28,7 @@ I have always been a very quick learner. At makers, the most useful skill I have
 - Situation - At the start of our final project, we decided to use MERN stack to write our app. I had worked with JS before but had no experience with any JS frameworks.
 - Task - I was given the responsibility to write the whole server side from scratch in node using express.
 - Action - We were extremely short on time and I had to come up with a solution very fast and efficiently. I had little experience with express. So I began reading node and express documentation and started only picking up basic things that I absolutely needed to start this task. I also found a really good [express crash course](https://www.youtube.com/watch?v=L72fhGm1tfE&t=5s) which I followed to get some further practice. I started writing the server on the first day of our project and managed to write a very efficient code really fast.
-- Result - The [server side](https://github.com/ahmad047/bazaar) was deployed by day 3 of the project and it made everyone's life really easy.
+- Result - The [server side](https://github.com/ahmad047/bazaar) was deployed by day 3.
 
 ### Logical Thinking
 
