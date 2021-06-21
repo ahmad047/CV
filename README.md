@@ -1,13 +1,13 @@
 ## Muhammad Nasr Ahmad
 
-I am a driven hard working individual who is passionate about tech, software engineering and development. I am a language agnostic developer who can break down problems, solve problems and also provide high quality solutions. 
+I am a driven hard working individual who is passionate about tech, software engineering and development. I am a language agnostic full stack developer who can break down and solve problems in an agile way
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                                                          | Description                                                               | Tech/tools        |
+| ------------------------------------------------------------- | -----------------                                                         | ----------------- |
+| **[Bazaar](https://github.com/ahmad047/bazaar-server)**       | A webapp to do x.                                                         | React, Jest, etc. |
+| **Something else worked on**                                  | A webapp to do y.                                                         | Ruby              |
 
 ## Work Experience
 
