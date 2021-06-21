@@ -1,8 +1,8 @@
-## Muhammad Nasr Ahmad
+# Muhammad Nasr Ahmad
 
 I am a driven hard working individual who is passionate about tech, software engineering and development. I am a language agnostic full stack developer who can break down and solve problems in an agile way.
 
-## Projects
+# Projects
 
 | Name                                                                                                           | Description                                              | Tech/tools                                                               |
 | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -10,7 +10,71 @@ I am a driven hard working individual who is passionate about tech, software eng
 | **[Acebook](https://github.com/ahmad047/acebook-team-smiley-face)**                                            | A clone of Facebook                                      | Ruby on Rails, Heroku, Rspec, CSS                                        |
 | **[Bowling](https://github.com/ahmad047/bowling-challenge-ruby)**                                              | Bowling Scorecard                                        | Javascript, Jasmine                                                      |
 
-## Work Experience
+# Skills
+
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+(Using a STAR example Paragraph) Consider the questions below.
+
+-STAR
+-What was the situation/task? (ST)
+
+-How was the skill used?
+
+-What did you do? (action)
+
+-What was the result?
+
+### Debugging
+
+I pride myself for being a really good debugger since I can look at other people's code and my own and break it down into small pieces and resolve any bugs. There have been many occasions in the last 12 weeks where I have had to debug a piece of code but the example below is what would describe it best.
+
+- Situation - 1 day before the final project in week 12 of the makers course, our bazaar app started crashing. This was a very intense time as well for the app to start crashing as we were finalizing styling and needed the app ready asap for the demo.
+- Task - I was tasked with debugging the app end to end and ensuring that the app did not crash.
+- Action - I went on to debug the app by simulating a user Journey and used console to look analyse the errors that came up during this exercise. I found that the issue was with both server and client. With a bad request server would crash as soon as we made a request on creating a new product. This would cause the heroku deployed server to crash. I also found an issue on the client side where the user was not persisting.
+- Result - Since I had found the issues using a methodical approach to debugging, I was able to solve these by refactoring to remove bugs on both client and server side. The app was working after this
+
+### Learning on the fly
+
+I have always been a very quick learner. At makers, the most useful skill I have learned is how to learn.
+
+- Situation - At the start of our final project, we decided to use MERN stack to write our app in. I had worked with JS before but had no experience with any JS frameworks.
+- Task - I was given the responsibility to write the whole server side from scratch in node using express.
+- Action - We were extremely short on time and I had to come up with a solution very fast and efficiently. I had little experience with express. So I began reading node and express documentation and started only picking up basic things that I absolutely needed to start this task. I also found a really good [express crash course](https://www.youtube.com/watch?v=L72fhGm1tfE&t=5s) which I followed to get some further practice. I started writing the server on the first day of our project and managed to write a very efficient code really fast.
+- Result - The [server side](https://github.com/ahmad047/bazaar) was deployed by day 3 of the project and it made everyone's life really easy.
+
+### Logical Thinking
+
+I think about problems in a very logical and methodical way.
+
+- Situation - At makers academy, I was given a coding challenge on almost every weekend to complete. One of the most enjoyable challenges is below.
+- Task - The challenge was to create a piece of software that acts as a bowling scorecard for one player.
+- Action - I followed a robust TDD process to write this program. I ensured to follow all the OOP principles. I also implemented the whole software in a very logical and methodical way to ensure that I was taking into account all the edge cases.
+- Result - The result was a [bowling scorecard](https://github.com/ahmad047/bowling-challenge) software that just takes a single input from the user and figures out all the stages of the bowling game and replicates each stage and edge case properly.
+
+# Education
+
+#### Makers Academy (March-21 to June-21)
+
+Ruby | Rails | JavaScript | Sinatra | HTML | CSS | PostgreSQL | RSpec | Jasmine | Capybara | Mongodb | React | Express | Node | Heroku | Netlify
+
+A 16 week intensive software development bootcamp focusing on:
+
+- Agile methodologies
+- Object-oriented design
+- Test driven development and behavior driven development
+- Pair programming
+- XP values
+- Software craftsmanship
+	
+#### BSc (Hons) Acounting and Finance, Anglia Ruskin University (2011 – 2014)
+Grade: **First Class** 
+
+#### Nusrat Jahan Inter College (2003 – 2010)
+A Levels: Physics (**A***), Mathematics (**A**), Chemistry (**B**)<br />
+GCSE's equivalent: Physics (**A***), Mathematics (**A***), Chemistry (**A***), Biology (**A**)
+
+
+# Work Experience
 
 **Solarcentury** (Mar-18 to Jan-21)  
 _Senior Management Accountant_
@@ -47,69 +111,15 @@ _Project Accountant_
 - PSR reconciliations of major frameworks.
 - Liaising with project managers and conducting project reviews on regular basis.
 
-**Banks Sadler** (Aug-17 to Feb-18)  
+**Proview Accounting** (Sep-14 to Nov-15)  
 _Management Accountant_
 
-- Preparation of complete management accounts and analysis for clients
-- Cashflow forecasting on regular basis
-- KPI's reporting which was incorporated into the management accounts each month.
-- Analysis of actual and forecast figures to advise clients on achieving targets in a more rigorous way
-- Taxation advice on new ventures when taken by clients
-- Preparation of VAT returns
-- Adherence to any fiscal requirements
-  -Ownership of deadlines and ensuring timely submission
+- Preparation of complete management accounts and analysis for clients.
+- Cashflow forecasting and liquidity analysis.
+- Taxation advice on new ventures when taken by clients.
+- Adherence to fiscal requirements.
+- Ownership of deadlines and ensuring timely submission.
 
-## Skills
+# Hobbies
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below:
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+I love going to cinema and watching movies. I am a huge fan of superhero movies and TV shows. I also enjoy travelling.
