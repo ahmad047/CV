@@ -9,6 +9,7 @@ I am a driven hard working individual who is passionate about tech, software eng
 | **Bazaar ([Server](https://github.com/ahmad047/bazaar-server), [Client](https://github.com/ahmad047/bazaar))** | A virtual marketplace to simulate a middle eastern bazaar | Mongodb, Express.js, React.js, Node.js, Cloudinary, Heroku, Netlify, CSS |
 | **[Acebook](https://github.com/ahmad047/acebook-team-smiley-face)**                                            | A clone of Facebook                                       | Ruby on Rails, Heroku, Rspec, CSS                                        |
 | **[Bowling](https://github.com/ahmad047/bowling-challenge)**                                                   | Bowling Scorecard                                         | Javascript, Jasmine                                                      |
+| **[Bank](https://github.com/ahmad047/bank_tech_test)**                                                   | Practice tech test using OOP and TDD.                                       | Ruby, Rspec                                                      |
 
 # Skills
 
