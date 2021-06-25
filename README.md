@@ -6,7 +6,7 @@ I am a driven hard working individual who is passionate about tech, software eng
 
 | Name                                                                                                           | Description                                               | Tech/tools                                                               |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------ |
-| **Bazaar ([Server](https://github.com/ahmad047/bazaar-server), [Client](https://github.com/ahmad047/bazaar))** | A virtual marketplace to simulate a middle eastern bazaar | Mongodb, Express.js, React.js, Node.js, Cloudinary, Heroky, Netlify, CSS |
+| **Bazaar ([Server](https://github.com/ahmad047/bazaar-server), [Client](https://github.com/ahmad047/bazaar))** | A virtual marketplace to simulate a middle eastern bazaar | Mongodb, Express.js, React.js, Node.js, Cloudinary, Heroku, Netlify, CSS |
 | **[Acebook](https://github.com/ahmad047/acebook-team-smiley-face)**                                            | A clone of Facebook                                       | Ruby on Rails, Heroku, Rspec, CSS                                        |
 | **[Bowling](https://github.com/ahmad047/bowling-challenge)**                                              | Bowling Scorecard                                         | Javascript, Jasmine                                                      |
 
