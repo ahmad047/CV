@@ -49,7 +49,7 @@ A 16 week intensive software development bootcamp focusing on:
 
 - Agile methodologies
 - Object-oriented design
-- Test driven development and behavior driven development
+- Test driven development and behaviour driven development
 - Pair programming
 - XP values
 - Software craftsmanship
