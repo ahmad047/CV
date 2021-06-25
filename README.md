@@ -13,6 +13,15 @@ I am a driven hard working individual who is passionate about tech, software eng
 
 # Skills
 
+### Learning on the fly
+
+I have always been a very quick learner. At makers, the most useful skill I have learned is how to learn.
+
+- Situation - At the start of our final project, we decided to use MERN stack to write our app. I had worked with JS before but had no experience with any JS frameworks.
+- Task - I was given the responsibility to write the whole server side from scratch in node using express.
+- Action - We were extremely short on time and I had to come up with a solution very fast and efficiently. I had little experience with express. So I began reading node and express documentation and started only picking up basic things that I absolutely needed to start this task. I also found a really good [express crash course](https://www.youtube.com/watch?v=L72fhGm1tfE&t=5s) which I followed to get some further practice. I started writing the server on the first day of our project and managed to write a very efficient code really fast.
+- Result - The [server side](https://github.com/ahmad047/bazaar) was deployed by day 3.
+
 ### Debugging
 
 I pride myself for being a really good debugger since I can look at other people's code and my own and break it down into small pieces and resolve any bugs. There have been many occasions in the last 12 weeks where I have had to debug a piece of code but the example below is what would describe it best.
@@ -22,14 +31,6 @@ I pride myself for being a really good debugger since I can look at other people
 - Action - I went on to debug the app by simulating a user Journey and used console to analyse the errors that came up during this exercise. I found that the issue was with both server and client. A bad request on creating a new product was causing the heroku deployed server to crash. I also found an issue on the client side where the user was not persisting.
 - Result - Since I had found the issues using a methodical approach to debugging, I was able to solve these by refactoring to removing bugs on both client and server side. The app was working after this
 
-### Learning on the fly
-
-I have always been a very quick learner. At makers, the most useful skill I have learned is how to learn.
-
-- Situation - At the start of our final project, we decided to use MERN stack to write our app. I had worked with JS before but had no experience with any JS frameworks.
-- Task - I was given the responsibility to write the whole server side from scratch in node using express.
-- Action - We were extremely short on time and I had to come up with a solution very fast and efficiently. I had little experience with express. So I began reading node and express documentation and started only picking up basic things that I absolutely needed to start this task. I also found a really good [express crash course](https://www.youtube.com/watch?v=L72fhGm1tfE&t=5s) which I followed to get some further practice. I started writing the server on the first day of our project and managed to write a very efficient code really fast.
-- Result - The [server side](https://github.com/ahmad047/bazaar) was deployed by day 3.
 
 ### Logical Thinking
 
