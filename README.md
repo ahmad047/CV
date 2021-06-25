@@ -103,7 +103,7 @@ _Project Accountant_
 - Liaising with project managers and conducting project reviews on regular basis.
 
 **Proview Accounting** (Sep-14 to Nov-15)  
-_Management Accountant_
+_Trainee Accountant_
 
 - Preparation of complete management accounts and analysis for clients.
 - Cashflow forecasting and liquidity analysis.
