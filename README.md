@@ -1,6 +1,8 @@
 # Muhammad Nasr Ahmad
 
-I am a driven hard working individual who is passionate about tech, software engineering and development. I am a language agnostic full stack developer who can break down and solve problems in an agile way.
+I am a driven and hardworking individual who is passionate about tech, software engineering and development. I am a language agnostic full stack developer proficient in object-oriented programming. I can break down and solve problems in an agile way.
+
+Before joining Makers, I worked as an accountant for 6 years. At the point of changing career I was a senior management accountant due to my commitment and efforts to always trying to improve myself. 
 
 # Projects
 
@@ -56,7 +58,7 @@ A 16 week intensive software development bootcamp focusing on:
 - XP values
 - Software craftsmanship
 
-#### BSc (Hons) Acounting and Finance, Anglia Ruskin University (2011 – 2014)
+#### BSc (Hons) Accounting and Finance, Anglia Ruskin University (2011 – 2014)
 
 Grade: **First Class**
 
