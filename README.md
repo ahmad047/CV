@@ -2,7 +2,8 @@
 
 I am a driven and hardworking individual who is passionate about tech, software engineering and development. I am a language agnostic full stack developer proficient in object-oriented programming. I can break down and solve problems in an agile way.
 
-Before joining Makers, I worked as an accountant for 6 years. At the point of changing career I was a senior management accountant due to my commitment and efforts to always trying to improve myself. 
+Before joining Makers, I worked as an accountant for 6 years. At the point of changing careers I was a senior management accountant at one of the largest solar energy providers in Europe.
+
 
 # Projects
 
@@ -13,50 +14,27 @@ Before joining Makers, I worked as an accountant for 6 years. At the point of ch
 | **[Bowling](https://github.com/ahmad047/bowling-challenge)**                                                   | Bowling Scorecard                                         | JavaScript, Jasmine                                                      |
 | **[Bank](https://github.com/ahmad047/bank_tech_test)**                                                   | Practice tech test using OOP and TDD.                                       | Ruby, Rspec                                                      |
 
-# Skills
-
-### Learning on the fly
-
-I have always been a very quick learner. At makers, the most useful skill I have learned is how to learn.
-
-- Situation - At the start of our final project, we decided to use MERN stack to write our app. I had worked with JS before but had no experience with any JS frameworks.
-- Task - I was given the responsibility to write the whole server side from scratch in node using express.
-- Action - We were extremely short on time and I had to come up with a solution very fast and efficiently. I had little experience with express. So I began reading node and express documentation and started only picking up basic things that I absolutely needed to start this task. I also found a really good [express crash course](https://www.youtube.com/watch?v=L72fhGm1tfE&t=5s) which I followed to get some further practice. I started writing the server on the first day of our project and managed to write a very efficient code really fast.
-- Result - The [server side](https://github.com/ahmad047/bazaar) was deployed by day 3.
-
-### Debugging
-
-I pride myself for being a really good debugger since I can look at other people's code and my own and break it down into small pieces and resolve any bugs. There have been many occasions in the last 12 weeks where I have had to debug a piece of code but the example below is what would describe it best.
-
-- Situation - 1 day before the final project in week 12 of the makers course, our bazaar app started crashing. This was a very intense time for the app to start crashing as we were finalizing styling and needed the app ready asap for the demo.
-- Task - I was tasked with debugging the app end to end and ensuring that the app did not crash.
-- Action - I went on to debug the app by simulating a user Journey and used console to analyse the errors that came up during this exercise. I found that the issue was with both server and client. A bad request on creating a new product was causing the heroku deployed server to crash. I also found an issue on the client side where the user was not persisting.
-- Result - Since I had found the issues using a methodical approach to debugging, I was able to solve these by refactoring to removing bugs on both client and server side. The app was working after this
-
-
-### Logical Thinking
-
-I think about problems in a very logical and methodical way.
-
-- Situation - At makers academy, I was given a coding challenge on almost every weekend to complete. One of the most enjoyable challenges is below.
-- Task - The challenge was to create a piece of software that acts as a bowling scorecard for one player.
-- Action - I followed a robust TDD process to write this program. I ensured to follow all the OOP principles. I also implemented the whole software in a very logical and methodical way to ensure that I was taking into account all the edge cases.
-- Result - The result was a [bowling scorecard](https://github.com/ahmad047/bowling-challenge) software that just takes a single input from the user and figures out all the stages of the bowling game and replicates each stage and edge case properly.
 
 # Education
 
 #### Makers Academy (March-21 to June-21)
 
-JavaScript | Mongodb | React | Express | Node | Heroku | Netlify | Ruby | Rails | Sinatra | HTML | CSS | PostgreSQL | RSpec | Jasmine | Capybara
 
-A 16 week intensive software development bootcamp focusing on:
+Makers academy is a highly selective bootcamp. During my 16 weeks at makers I was trained on and independently learned the following:
 
-- Agile methodologies
-- Object-oriented design
-- Test driven development and behaviour driven development
-- Pair programming
-- XP values
-- Software craftsmanship
+ - JavaScript || MERN || jQuery
+ - Ruby || Rails || PostgreSQL
+ - HTML || CSS
+ - RESTful API design, implementation and testing (Postman & Insomnia)
+ - Object Oriented Programming || Functional Programming || Behaviour Driven Development
+ - Database & Schema Design (Relational & Non-Relational)
+ - Agile Processes (user stories, domain modelling, relationship diagrams, stand-ups, retros, sprints)
+ - Object Oriented Programming || Functional Programming || Behaviour Driven Development
+ - Database & Schema Design (Relational & Non-Relational)
+ - TDD (RSpec, Jasmine, Jest)
+ - Pair programming
+ - XP values
+
 
 #### BSc (Hons) Accounting and Finance, Anglia Ruskin University (2011 – 2014)
 
@@ -112,6 +90,36 @@ _Trainee Accountant_
 - Taxation advice on new ventures when taken by clients.
 - Adherence to fiscal requirements.
 - Ownership of deadlines and ensuring timely submission.
+
+# Skills
+
+### Learning on the fly
+
+I have always been a very quick learner. At makers, the most useful skill I have learned is how to learn.
+
+- Situation - At the start of our final project, we decided to use MERN stack to write our app. I had worked with JS before but had no experience with any JS frameworks.
+- Task - I was given the responsibility to write the whole server side from scratch in node using express.
+- Action - We were extremely short on time and I had to come up with a solution very fast and efficiently. I had little experience with express. So I began reading node and express documentation and started only picking up basic things that I absolutely needed to start this task. I also found a really good [express crash course](https://www.youtube.com/watch?v=L72fhGm1tfE&t=5s) which I followed to get some further practice. I started writing the server on the first day of our project and managed to write a very efficient code really fast.
+- Result - The [server side](https://github.com/ahmad047/bazaar) was deployed by day 3.
+
+### Debugging
+
+I pride myself for being a really good debugger since I can look at other people's code and my own and break it down into small pieces and resolve any bugs. There have been many occasions in the last 12 weeks where I have had to debug a piece of code but the example below is what would describe it best.
+
+- Situation - 1 day before the final project in week 12 of the makers course, our bazaar app started crashing. This was a very intense time for the app to start crashing as we were finalizing styling and needed the app ready asap for the demo.
+- Task - I was tasked with debugging the app end to end and ensuring that the app did not crash.
+- Action - I went on to debug the app by simulating a user Journey and used console to analyse the errors that came up during this exercise. I found that the issue was with both server and client. A bad request on creating a new product was causing the heroku deployed server to crash. I also found an issue on the client side where the user was not persisting.
+- Result - Since I had found the issues using a methodical approach to debugging, I was able to solve these by refactoring to removing bugs on both client and server side. The app was working after this
+
+
+### Logical Thinking
+
+I think about problems in a very logical and methodical way.
+
+- Situation - At makers academy, I was given a coding challenge on almost every weekend to complete. One of the most enjoyable challenges is below.
+- Task - The challenge was to create a piece of software that acts as a bowling scorecard for one player.
+- Action - I followed a robust TDD process to write this program. I ensured to follow all the OOP principles. I also implemented the whole software in a very logical and methodical way to ensure that I was taking into account all the edge cases.
+- Result - The result was a [bowling scorecard](https://github.com/ahmad047/bowling-challenge) software that just takes a single input from the user and figures out all the stages of the bowling game and replicates each stage and edge case properly.
 
 # Hobbies
 
